@@ -1,0 +1,5 @@
+# Core dependencies
+numpy>=1.19.0
+
+# Development dependencies (optional)
+# Install with: pip install -r requirements-dev.txt
